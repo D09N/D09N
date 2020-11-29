@@ -1,0 +1,104 @@
+body
+{
+background-image: url(video.mp4);    
+padding:0 ;
+margin:0;
+color: seashell;
+}
+.bgvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -9999;
+  }
+.head{background-color: rgba(0, 0, 0, 0.35);
+    height: 100px;
+    margin: 1%;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+.one{background-color: rgba(0, 0, 0, 0.35);
+width: 85%;
+height: 500px;
+margin: 1%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+}
+.two{background-color: rgba(0, 0, 0, 0.35);
+    
+    width: 15%;
+    height: 500px;
+    margin: 1%;
+    
+}
+.kalendar{
+    
+    margin: 30px;
+}
+.video{
+    margin: 30px;
+    padding: 5px;
+   
+}
+.video a{
+color: #eeeeee;
+text-decoration: none;
+}
+.video:hover {
+    background-color: red;
+    transition: 0.5s;
+    
+}
+.music{
+    margin: 30px;
+    padding: 5px;
+   
+}
+.music a{
+color: #eeeeee;
+text-decoration: none;
+}
+.music:hover {
+    background-color: red;
+    transition: 0.5s;
+    
+}
+.nazad{
+    margin: 30px;
+    padding: 5px;
+   
+}
+.nazad a{
+color: #eeeeee;
+text-decoration: none;
+}
+.nazad:hover {
+    background-color: red;
+    transition: 0.5s;
+    
+}
+
+.one1{background-color: rgb(0, 0, 0);
+    width: 85%;
+    height: 500px;
+    margin: 1%;
+    }
+
+.myzon {
+    padding: 1%;
+    margin: auto;
+}
+
